@@ -12,5 +12,5 @@
  <details>
     <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/953333785150246912/1052980571824980008/kisisel.PNG?width=1422&height=670">
+     <img src="https://media.discordapp.net/attachments/775591194771849237/1072878400731095070/nike15.gif?width=432&height=173">
      </p>
